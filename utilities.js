@@ -1,5 +1,5 @@
-export const WS_URL = 'ws://localhost:8080/';
-// export const WS_URL = 'wss://dnd-server.azurewebsites.net/';
+// export const WS_URL = 'ws://localhost:8080/';
+export const WS_URL = 'wss://dnd-server-hj6q2nqnga-ue.a.run.app/';
 
 export const USER_EVENT = 'USER_EVENT';
 export const CONTENT_EVENT = 'CONTENT_EVENT';
