@@ -43,7 +43,7 @@ export const styles = StyleSheet.create({
     color: '#acbbd6', // blue light
     fontFamily: 'sans-serif',
     backgroundColor: '#203558',
-      //'#0c1a30', // blue dark
+    //'#0c1a30', // blue dark
     //alignItems: 'center',
     //justifyContent: 'center',
   },
