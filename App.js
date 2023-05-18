@@ -42,11 +42,14 @@ export const styles = StyleSheet.create({
     flex: 1,
     color: '#acbbd6', // blue light
     fontFamily: 'sans-serif',
-    backgroundColor: '#0c1a30', // blue dark
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor: '#203558',
+      //'#0c1a30', // blue dark
+    //alignItems: 'center',
+    //justifyContent: 'center',
   },
-  h1: { margin: 0 },
+  h2: { 
+    margin: 0 
+  },
   currency: {
     width: 25,
     height: 25,
@@ -54,8 +57,7 @@ export const styles = StyleSheet.create({
   },
   window: {
     backgroundColor: '#203558', // blue
-    padding: '80px',
-    paddingLeft: '60px',
+    padding: '20px',
     borderRadius: '3px',
     display: 'flex',
     flexDirection: 'column',

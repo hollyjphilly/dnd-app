@@ -23,7 +23,7 @@ export default function LoginSection({ onLogin }) {
 
   return (
     <div style={styles.window}>
-      <h1 style={styles.h1}>Bag of Holding</h1>
+      <h2 style={styles.h2}>Bag of Holding</h2>
       <Spacer height={'40px'}/>
       <TextInput 
         style={styles.input}

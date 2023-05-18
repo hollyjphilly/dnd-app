@@ -17,7 +17,7 @@ export default function Home() {
     return (<div style={styles.window}>
         <Users users={Object.values(lastJsonMessage?.data?.users || {})}/>
         <Spacer height={'20px'}/>
-        <h1 style={styles.h1}>Bag of Holding</h1>
+        <h2 style={styles.h2}>Bag of Holding</h2>
         <Spacer height={'20px'}/>
         <Bag/>
         <Spacer height={'20px'}/>
